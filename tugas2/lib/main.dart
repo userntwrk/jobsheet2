@@ -1,3 +1,5 @@
+// Muhammad Roofiif Wahyu Pratama - 2031710137
+
 import 'package:flutter/material.dart';
 
 void main() {
@@ -11,7 +13,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Flutter Demo',
+      title: 'Muhammad Roofiif Wahyu Pratama - 2031710137',
       theme: ThemeData(
         primarySwatch: Colors.grey,
         primaryTextTheme:
